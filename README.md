@@ -32,8 +32,6 @@ This project implements a 16-bit Arithmetic Logic Unit (ALU) using Verilog HDL. 
 ## 📊 Results
 The ALU correctly performs all operations as verified through simulation waveforms.
 
-## 📷 Sample Output
-(Add waveform screenshot here)
 
 ## 🚀 Future Improvements
 - Add carry and overflow flags
